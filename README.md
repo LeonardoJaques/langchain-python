@@ -14,7 +14,7 @@ This project uses [LangChain](https://www.langchain.com/), a framework for devel
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/langchain.git
+git clone https://github.com/LeonardoJaques/langchain.git
 cd langchain
 ```
 
